@@ -1,0 +1,11 @@
+Dashboard Instructions
+
+Run locally with:
+
+    streamlit run dashboard_app.py
+
+Default local URL:
+
+    http://localhost:8501
+
+This dashboard was developed to run locally; can be deployed upon request.
